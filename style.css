@@ -122,7 +122,6 @@ body{
   }
   
   #check:checked ~ .sidebar{
-    left: -185px;
       display: none;
   }
   
