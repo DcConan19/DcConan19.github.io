@@ -190,7 +190,7 @@ body{
     }
   
     #check:checked ~ .content{
-      margin-left: 0;
+      margin-left: 0px;
     }
   
     .mobile_nav{
