@@ -123,6 +123,7 @@ body{
   
   #check:checked ~ .sidebar{
     left: -185px;
+      display: none;
   }
   
   #check:checked ~ .sidebar a span{
@@ -148,7 +149,7 @@ body{
   }
   
   #check:checked ~ .content{
-    margin-left: 60px;
+    margin-left: 0px;
   }
   
   #check:checked ~ .sidebar .profile_info{
